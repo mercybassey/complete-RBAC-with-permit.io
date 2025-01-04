@@ -14,18 +14,18 @@ This repository is a Flask application that was used to demonstrate how to enfor
 
 ```bash
     $ git clone git@github.com:mercybassey/complete-RBAC-with-permit.io.git
-    cd complete-RBAC-with-permit.io
+    $ cd complete-RBAC-with-permit.io
 ```
 
 2. Create and activate a Poetry shell:
 
 ```bash
-    poetry shell
+    $ poetry shell
 ```
 3. Install all dependencies:
 
 ```bash
-    poetry install
+    $ poetry install
 ```
 
 4. Create a `.env` file and Set up environment variables:
