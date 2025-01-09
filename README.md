@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository is a Flask application that was used to demonstrate how to enforce Role-based access control with Permit.io in an article titled "How to Build an RBAC Permissioned Admin Dashboard with Permit.io and Flask".
+This repository is a Flask application that was used to demonstrate how to enforce Role-based access control with Permit.io in an article titled "[How to Build an RBAC Permissioned Admin Dashboard with Permit.io and Flask](https://medium.com/javascript-in-plain-english/how-to-build-an-rbac-permissioned-admin-dashboard-with-permit-io-and-flask-a5503a907dad)".
 
 ## Prerequisites
 - A [permit.io](http://permit.io) account with a project already created. 
